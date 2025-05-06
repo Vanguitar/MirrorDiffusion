@@ -1,4 +1,4 @@
-# MirrorDiffusion
+# MirrorDiffusion，使用本人的environment.yml
 
 [[Project Homepage]](https://mirrordiffusion.github.io/)  [[paper]](https://arxiv.org/abs/2401.03221)
 
